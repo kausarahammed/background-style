@@ -1,0 +1,27 @@
+ .ka{
+    color:white;
+    background-color:green;
+    border:5px solid tomato;
+    border-radius:40px 60px 20px 10px;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    
+
+
+ }
+img{
+    background-size:cover;
+    image
+   
+
+    
+}
+div{
+    margin:20px;
+    border:5px solid red;
+    border-radius:5px 19px 50px 39px;
+    background-color:aqua;
+    color:red;
+
+}
+ 
